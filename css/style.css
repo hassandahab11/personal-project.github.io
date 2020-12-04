@@ -26,7 +26,38 @@
 }
 #carousel img{
     width: 100%;
-    height: 100%;
+    height: auto;
     text-align: center;
     padding-top: 50px;
+}
+
+footer{
+    padding-top: 50px;
+    height: 300px;
+
+}
+footer p{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    color: white;
+
+}
+
+footer ul {
+    list-style: none;
+}
+
+footer ul li a{
+    color: #fff;
+}
+
+footer ul li a:hover{
+    border-bottom:white 0.5px solid;
+    text-decoration: none;
+}
+
+footer h2{
+    color: white;
+    font-family: 'JetBrains Mono', monospace;
+
 }
