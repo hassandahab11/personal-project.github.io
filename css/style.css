@@ -1,0 +1,19 @@
+#nav-bar ul li a{
+    color: #fff;
+
+}
+#nav-bar ul li a:hover{
+    color: #fff;
+    border-bottom: white solid 0.7px;
+
+}
+
+#toggle-1 a:hover{
+    background-color: blue;
+    color: white;
+}
+
+#form-1{
+    padding-top: 50px;
+    height: 900px;
+}
