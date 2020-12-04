@@ -17,3 +17,16 @@
     padding-top: 50px;
     height: 900px;
 }
+.button{
+    padding-right: 10px;
+}
+
+#div-form{
+    width: 100%;
+}
+#carousel img{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    padding-top: 50px;
+}
